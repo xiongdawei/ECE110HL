@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eec89193-891a-438f-8281-8ef8e99be61f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="eec89193-891a-438f-8281-8ef8e99be61f" name="Default Changelist" comment="add the main.py file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +73,14 @@
       <option name="presentableId" value="Default" />
       <updated>1634254998677</updated>
     </task>
+    <task id="LOCAL-00001" summary="add the main.py file">
+      <created>1634415567506</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634415567506</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +94,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add the main.py file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add the main.py file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1634255076258">
