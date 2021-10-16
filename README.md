@@ -1,10 +1,28 @@
 # ECE110HL
-StarWarATATWalker
+Star War AT AT Walker 
 
-Is it the right way for you to do it?
+DEVELOPEMENT LOG
 
-add a new line
+WEEK1 OCT17
+Parts have been ordered.
+Set up github, github desktop, Pycharm IDE and download GPIO, Numpy, Tensorflow
+Finish Basic Control Code of the Motor
+Finish Basic Code of CV(identifying color on the road)
 
-sun xiping added a new line
+WEEK2
+Design the primitive model of the robot
 
-add a new line
+
+WEEK3
+
+WEEK4
+
+WEEK7
+
+WEEK8
+
+WEEK9
+
+WEEK10
+
+WEEK11
