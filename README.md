@@ -29,7 +29,7 @@ Kathy
 Teamwork:
 - workout the control algorithm for AT-AT walker
 
-Meet at Oct 31th, 5pm at 4th floor at GG
+Meet at Oct 30th, 5pm at 4th floor at GG
 
 
 WEEK4
