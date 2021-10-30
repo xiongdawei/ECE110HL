@@ -25,9 +25,11 @@ ECE110课讲的差不多了
 接下来就返回来说一下树莓派的GPIO接口
 
 
-![image](pic//pinout-raspberrypi.png)
+![image](pic/pinout-raspberrypi.png)
 
-![image](factor5.png)
+PCA9685芯片工作电压在2.3 - 5.5V，可以由树莓派的3V输出供电，舵机供电使用外部电源，如果使用树莓派的5V输出可能引起树莓派的不稳定。树莓派、PCA9685和舵机的接线图如下
+
+![image](pic/pca9685_servo.png)
 
 ![image](factor5.png)
 
