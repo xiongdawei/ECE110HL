@@ -31,7 +31,13 @@ PCA9685芯片工作电压在2.3 - 5.5V，可以由树莓派的3V输出供电，�
 
 ![image](pic/pca9685_servo.png)
 
-![image](factor5.png)
+树莓派3.3V输出连接PCA9685的VCC
+树莓派GND连接PCA9685的GND
+树莓派SCL连接PCA9685的SCL
+树莓派SDA连接PCA9685的SDA
+舵机的黄线连接channel 0的PWM
+舵机的红线连接channel 0的V+
+舵机的棕线连接channel 0的GND
 
 
 
