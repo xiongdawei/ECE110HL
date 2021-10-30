@@ -39,7 +39,7 @@ PCA9685芯片工作电压在2.3 - 5.5V，可以由树莓派的3V输出供电，�
 舵机的红线连接channel 0的V+
 舵机的棕线连接channel 0的GND
 
-
+依照同样的方式，我们要连接八个电机上去，从下往上分别为LF1(Left Front), LF2, LB1(Left Back), LB2, RF1, RF2, RB1, RB2
 
 
 
