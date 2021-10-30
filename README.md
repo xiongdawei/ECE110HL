@@ -34,6 +34,8 @@ Meet at Oct 30th, 5pm at 4th floor at GG
 
 WEEK4
 
+The objective of this week is to turn on the motor (at least)
+
 WEEK7
 
 WEEK8
