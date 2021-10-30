@@ -23,6 +23,8 @@ I2C是智能硬件电路上最常用的数据传输总线，只需要2根线，�
 ECE110课讲的差不多了
 
 接下来就返回来说一下树莓派的GPIO接口
+
+
 ![image](pic//pinout-raspberrypi.png)
 
 ![image](factor5.png)
